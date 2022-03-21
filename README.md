@@ -8,8 +8,7 @@ Customer segmentation can also help a company to understand how its customers ar
 
 ## Steps Involved
 
-Initially, we explored and cleaned the data. Then carried out Exploratory Data analysis to get some insights from the dataset. During this analysis we performed preprocessing, filtering, processing for clustering that can be checked in the below notebook in detail.
-
+Initially, we explored and cleaned the data. Then carried out Exploratory Data analysis to get some insights from the dataset. During this analysis we performed preprocessing, filtering, processing for clustering. You can see all steps in detail [here](https://github.com/Swapnil-417/Online-Retail-Customer-Segmentation/blob/main/Final_Notebook.ipynb)
 
 ## RFM Analysis
 
